@@ -1,2 +1,53 @@
 /*create your custom styling here*/
+#header{
+	background-color: green;
+	height: 200px;
+	width:1920px;
+	float:left;
+	margin:10px;
 
+}
+
+.small-box{
+	width:240px;
+	height:240px;
+	margin:70px;
+	background-color: yellow;
+
+}
+
+.sidebar{
+	background-color: blue;
+	height:1000px;
+	width:425px;
+	padding:25px;
+	float:left;
+	margin:10px;
+
+}
+
+#main-story{
+	background-color: orange;
+	height: 1050px;
+	width:870px;
+	float:left;
+	margin:10px;
+
+}
+
+#footer{
+	background-color: red;
+	height:200px;
+	width:1920px;
+	float:left;
+	margin:10px;
+	
+}
+
+.long-box{
+	width:300px;
+	height:850px;
+	margin:70px;
+	background-color: yellow;
+
+}
